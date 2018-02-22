@@ -1,3 +1,6 @@
+This project is copied from https://github.com/kamalkraj/DATA-SCIENCE-BOWL-2018, make some modifications.
+
+
 # DATA-SCIENCE-BOWL-2018
 ## Find the nuclei in divergent images to advance medical discovery
 ### Spot Nuclei. Speed Cures.
