@@ -1,0 +1,10 @@
+# python notebook
+*.ipynb
+
+# npy files
+*.npy
+
+# dir
+**/__pycache__
+**/.ipynb_checkpoints
+**/.idea
